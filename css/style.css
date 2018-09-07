@@ -1,5 +1,5 @@
 body{
-	background-image:url(images/bk.jpg);
+	background-image:url(../images/bk.jpg);
 }
 
 .box-1{
@@ -20,13 +20,13 @@ body{
 	font-weight: 800;
 	font-style: bold;
 	word-spacing: 1em;
-	color: black;
+	color: #000;
 }
 
 .box-1 p{
 	font-family:'Inconsolata', monospace;
 	font-size: 15px;
-	color: black;
+	color: #000;
 }
 
 .box-2 {
@@ -46,13 +46,13 @@ body{
 	font-weight: 800;
 	font-style: bold;
 	word-spacing: 1em;
-	color: black;
+	color: #000;
 }
 
 .box-2 p{
 	font-family:'Inconsolata', monospace;
 	font-size: 15px;
-	color: black;
+	color: #000;
 }
 
 .container {
@@ -75,5 +75,5 @@ body{
 
 .list{
 	font-family:'Inconsolata', monospace;
-	color: black;
+	color: #000;
 }
