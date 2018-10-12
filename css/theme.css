@@ -465,7 +465,7 @@ img {
 	transition:all 0.3s linear;
 }
 .gallery ul li a:hover:after {
-	opacity:1;
+	opacity:0;
 }
 section:after {
 	float:none;
@@ -517,7 +517,7 @@ section {
 
 .column {
 	float: left;
-	width: 33.33%;
+	width: 25%;
 	padding: 5px;
   }
 
@@ -530,3 +530,111 @@ section {
   .row .column .centered {
 	  font-size: 25px;
   }
+
+ .container .content-section .text-center .row .column {
+	border-radius: 50%;
+ }
+
+ img[src="img/rsz_1marco.jpg"] {
+	border-radius: 50%;
+ }
+
+ img[src="img/rsz_liana.jpg"] {
+	border-radius: 50%;
+ }
+
+ img[src="img/jennaandkids.JPG"] {
+	border-radius: 50%;
+ }
+
+
+ #stats {
+	 font-size: 20px;
+	line-height: 25px;
+ }
+
+ img[src="img/lianaa.jpg"] {
+	border-radius: 50%;
+ }
+
+ img[src="img/deathnote2.jpg"] {
+	border-radius: 50%;
+	float: left;
+
+ }
+
+ img[src="img/daredevil.jpg"] {
+	border-radius: 50%;
+	float: right;
+ }
+
+ img[src="img/trigun2.jpg"] {
+	float: right;
+ }
+
+ img[src="img/whitewalker.jpg"] {
+	float: middle;
+ }
+ img[src="img/hxh phantom troupe arc.jpg"] {
+	float: middle;
+ }
+ 
+
+ #faves {
+	 text-justify: auto;
+ }
+
+ #interests {
+	width: 2.33%;
+ }
+
+ #allpics {
+	 
+ }
+
+ img[src="img/undeniable.jpg"] {
+	border-radius: 50%;
+	float: left;
+
+ }
+
+ img[src="img/breakingben.jpg"] {
+	border-radius: 50%;
+	float: right;
+ }
+
+ img[src="img/gorillaz.jpg"] {
+	float: right;
+ }
+
+ img[src="img/doom.jpg"] {
+	float: middle;
+ }
+ img[src="img/dean.jpg"] {
+	float: middle;
+ }
+
+ img[src="img/reddead.jpg"] {
+	border-radius: 50%;
+	float: left;
+
+ }
+
+ img[src="img/spidey.jpg"] {
+	border-radius: 50%;
+	float: right;
+ }
+
+ #felix {
+	 size: 20px;
+	 vertical-align: middle;
+
+ }
+
+ img[src="img/felix.JPG"] {
+	float: left;
+ }
+ 
+ #me {
+	 size: 14px;
+ }
